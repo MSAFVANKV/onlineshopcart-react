@@ -11,7 +11,7 @@ const products = [
         id:2,
         name: 'Product 2',
         desc: 'new edition',
-        price: 20,
+        price: 25,
         image: "https://res.cloudinary.com/dmdsvsbdg/image/upload/v1702993273/online-shop/tianyi-ma-WiONHd_zYI4-unsplash_z7ost2.jpg"
 
     },
@@ -19,7 +19,7 @@ const products = [
         id:3,
         name: 'Product 3',
         desc: 'better quality product',
-        price: 20,
+        price: 200,
         image: "https://res.cloudinary.com/dmdsvsbdg/image/upload/v1702993253/online-shop/carlos-muza-hpjSkU2UYSU-unsplash_bwoiwp.jpg"
 
     },
